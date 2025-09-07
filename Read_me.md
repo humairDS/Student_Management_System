@@ -14,7 +14,7 @@ It demonstrates the use of **classes, objects, constructors, and methods**.
    ```bash
    python main.py
 
-#output
-Name: Umair, Roll Number: 23, Marks: 87
-Name: Ali, Roll Number: 45, Marks: 92
+#Streamlit Link
+https://studentmanagementsystem-65nbxgzxts8bmlsm47rys7.streamlit.app/
+
 
